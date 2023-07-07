@@ -1,6 +1,8 @@
 # EdgeVideoCreate
 
-使用MATLAB生成边缘检测视频，示例视频https://www.bilibili.com/video/BV15d4y1k7EJ/。
+使用MATLAB生成边缘检测视频。
+
+示例视频：https://www.bilibili.com/video/BV15d4y1k7EJ/
 
 ## 使用方法
 
